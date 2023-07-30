@@ -4,4 +4,4 @@ This make part of specs and rules of the allow Atomic swap and submarine swaps r
 
 
 
-[More details here](https://github.com/PorticoExchange)
+[More details here](https://github.com/PorticoExchange/PIP)
