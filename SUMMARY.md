@@ -9,5 +9,5 @@
 * [Roadmap](roadmap.md)
 * [Social Media](social-media.md)
 * [Swap Provider's Guide](swap-providers-guide.md)
-* [FAQ](faq/README.md)
-  * [Other Products of Portico Exchange by Portico Labs](faq/other-products-of-portico-exchange-by-portico-labs.md)
+* [FAQ](faq.md)
+* [Other products by Portico Labs](other-products-by-portico-labs.md)
