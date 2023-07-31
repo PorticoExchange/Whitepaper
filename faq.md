@@ -8,6 +8,6 @@ Our product will be launched in 2024.
 
 &#x20;No, our DEX haven't token.
 
-3. When official launch?&#x20;
+3.When official launch?&#x20;
 
 In 2024/2025
