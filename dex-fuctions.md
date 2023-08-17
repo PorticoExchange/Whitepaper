@@ -55,7 +55,6 @@ Remember the L-BTC will be "token" synthetic inside Lightning
 * Spacechain
 * Softchain
 * Statechain
-* OmniBolt
 * RGB&#x20;
 * Fabric Protocol / PortalOS
 * Tor and I2P
